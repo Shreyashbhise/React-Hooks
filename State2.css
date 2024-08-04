@@ -1,0 +1,14 @@
+*{
+
+  background-color: plum;
+}
+
+.app{
+  padding: 140px;
+}
+.btn{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
