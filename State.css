@@ -1,0 +1,25 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  background-color: plum;
+}
+
+.btn1{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding-left: 250px ;
+  
+}
+
+.btn2{
+  color: red;
+  background-color: aliceblue;
+}
+.btn3{
+  color: blueviolet;
+  background-color: aliceblue;
+}
