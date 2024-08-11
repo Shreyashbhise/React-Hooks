@@ -14,7 +14,7 @@ const MyComponent = () => {
     } 
 
     function  updateData() {
-        setData("ZSeeta")
+        setData("Seeta")
     }
 
     
