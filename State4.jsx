@@ -31,3 +31,24 @@ const MyComponent = () => {
 }
 
 export default MyComponent;
+
+
+
+////////////////
+Iteration Over foods Array:
+
+Iteration 1:
+i = 0, food = "Apple"
+Condition: 0 !== 2 (true)
+Result: "Apple" is included in the new array.
+Iteration 2:
+i = 1, food = "Orange"
+Condition: 1 !== 2 (true)
+Result: "Orange" is included in the new array.
+Iteration 3:
+i = 2, food = "Banana"
+Condition: 2 !== 2 (false)
+Result: "Banana" is excluded from the new array.
+Iteration 4:
+i = 3, food = "Grapes"
+Condition: 3 !== 2 (true)
